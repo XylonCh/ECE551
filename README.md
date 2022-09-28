@@ -1,1 +1,1 @@
-# ECE551
+# ECE551-C++ Programming
